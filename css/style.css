@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6, figure {
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
         vertical-align: middle;
-        height: 350px;
+        height: 360px;
         position: relative; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner span i {
           font-size: 24px;
@@ -342,8 +342,9 @@ h1, h2, h3, h4, h5, h6, figure {
           display: block;
           padding: 0em;
           background: white;
-          width: 80%;
-          padding: 2em; }
+          width: 100%;
+          padding: 1.5em;
+          text-align: center; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .desc {
               width: 100%; } }
